@@ -132,7 +132,7 @@ From the top:
 |---|---|
 | **STRATAEQ** + **ENGINE LIVE** | Green means the engine is genuinely running. Tap the gear for Settings. |
 | **Music.** (big name) | The preset that is playing right now, with its amber live dot. |
-| **through TOZO-T6 · auto** | Which output it is going through, and whether it is **auto** or **manual** (see [Auto-switching](#auto-switching-the-sound-follows-what-plays)). |
+| **through *your device* · auto** | Which output the sound is going through — the name your phone reports for it (your headphones, car or speaker) — and whether it is **auto** or **manual** (see [Auto-switching](#auto-switching-the-sound-follows-what-plays)). |
 | **EQUALIZER** + `PRE` | The band sliders. `PRE` is how much level StrataEQ is automatically holding back so your boosts cannot clip. Blank means nothing is being held back. |
 | **BASS** | A separate low-end control, with its own dB readout. It never moves the band sliders. |
 | **EVEN OUT LOUDNESS** | Off / Light / Strong — see [Even out loudness](#even-out-loudness). |
