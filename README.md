@@ -35,6 +35,8 @@ No root. No ADB. No companion patch. No account. **No internet permission.** Abo
 - [Keeping it alive](#keeping-it-alive)
 - [Troubleshooting](#troubleshooting)
 - [How it compares](#how-it-compares)
+- [About](#about)
+- [Support the project](#support-the-project)
 - [Legal](#legal)
 
 ---
@@ -495,6 +497,46 @@ apps change; check their pages for the current state.
 **What you get with StrataEQ that you do not get together anywhere else:** content-aware switching,
 per-device per-preset memory, and a straight edge-to-edge result in *every* app without patching
 anything.
+
+---
+
+## About
+
+**StrataEQ** is a system-wide equalizer for Android 10 and newer, made by **SteveCha Apps** — a small,
+independent, one-person project. First published 1 November 2026.
+
+- **Current release:** 1.0.0 (see [Releases](../../releases) for the history and the change notes)
+- **Size:** about 2.7 MB — small on purpose, and deliberately built on Android's own system-wide sound
+  engine rather than bundling a DSP stack, a headphone database or an account system
+- **Offline by design:** the app requests **no internet permission at all**
+- **Independence:** StrataEQ is not affiliated with, endorsed by or connected to Google, Android,
+  AutoEq, or any of the equalizer apps mentioned in the comparison above. "AutoEq" is used only to
+  describe the file format its results come in
+- **Support:** bug reports and feature requests are welcome as **Issues** on this repository. The app's
+  **Settings → Diagnostics** screen shows a read-only, entirely local summary (device, Android
+  version, how well the phone supports system-wide EQ, engine state and heartbeat) — pasting that into
+  a report makes a fix much faster
+- **Privacy:** nothing about you or your phone leaves your device; there is no analytics, no account
+  and no telemetry of any kind
+
+## Support the project
+
+StrataEQ is **free and stays free**: no ads, no analytics, no locked features, no upsell, no
+subscription. There is no "pro" version waiting behind a paywall — everything documented here is in
+the APK you downloaded.
+
+If it fixed your sound and you would like to say thanks, you can **chip in**:
+
+- **PayPal:** [paypal.biz/twominutes](https://www.paypal.biz/twominutes) — or use the **Sponsor**
+  button at the top of this page
+
+It is entirely optional, and it does not unlock anything or change what you get. Two things that cost
+nothing and help just as much:
+
+- **Tell someone** who is fighting bad earbuds — the most useful thing for a small app is a
+  recommendation from someone who actually uses it.
+- **Report what is broken**, with the Diagnostics text — the four presets, per-device memory and
+  auto-switching are all things that only get better as more real phones are tested on them.
 
 ---
 

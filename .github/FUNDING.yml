@@ -1,0 +1,9 @@
+# GitHub "Sponsor" button for this repository.
+#
+# StrataEQ is free with no ads, no locked features and no account. The button is
+# only a way to say thanks - it unlocks nothing.
+#
+# PayPal is supported through the `custom` key (up to 4 URLs, shown as buttons
+# in GitHub's Sponsor popup). Keep this file in the default branch, or the
+# button does not appear.
+custom: ["https://www.paypal.biz/twominutes"]
